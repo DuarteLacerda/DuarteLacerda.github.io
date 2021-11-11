@@ -210,7 +210,7 @@ body > section,
 
 .carousel-caption p:before,
 .carousel-caption p:after {
-color: #000000;
+color: #ffffff;
 content: "___";
 position: relative;
 top: -8px;
