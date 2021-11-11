@@ -577,6 +577,10 @@ top: -8px;
   width: 100%;
 }
 
+element.style{
+  background-color: rgb(0 0 0);
+}
+
 .contact-form .form-control {
   border-color: -moz-use-text-color -moz-use-text-color #cccccc;
   border-radius: 0;
