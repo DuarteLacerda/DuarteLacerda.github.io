@@ -135,7 +135,7 @@ body > section,
 /*Top Bar*/
 
 #topbar {
-  background: #191919;
+  background: #000000;
   font-size: 15px;
   height: 40px;
   padding: 0;
@@ -156,16 +156,6 @@ body > section,
 }
 #topbar .contact-info .phone-icon {
   margin-left: 15px;
-}
-#topbar .social-links a {
-  color: rgba(255, 255, 255, 0.6);
-  padding: 4px 12px;
-  display: inline-block;
-  line-height: 1px;
-  transition: 0.3s;
-}
-#topbar .social-links a:hover {
-  color: #fff;
 }
 
 /*=========================================
