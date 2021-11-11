@@ -3,7 +3,7 @@
 /* =================================== */
 
 body {
-    background-color: rgb(131, 131, 131);
+    background-color: rgb(255, 255, 255);
     font-family: 'Open Sans', sans-serif;
     line-height: 21px;
 	font-size: 13px;
@@ -40,7 +40,7 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-    color: #6CB670;
+    color: #000000;
 }
 
 h1, h2, h3,
