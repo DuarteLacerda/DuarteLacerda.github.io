@@ -203,7 +203,7 @@ body > section,
 }
 
 .carousel-caption p {
-  color: #fff;
+  color: rgb(209, 209, 209);
   font-size: 18px;
   font-weight: 300;
 }
