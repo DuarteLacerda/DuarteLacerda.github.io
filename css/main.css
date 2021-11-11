@@ -132,32 +132,6 @@ body > section,
   top: 25%;
 }
 
-/*Top Bar*/
-
-#topbar {
-  background: #000000;
-  font-size: 15px;
-  height: 40px;
-  padding: 0;
-  color: rgba(255, 255, 255, 0.6);
-}
-#topbar .contact-info a {
-  line-height: 0;
-  color: rgba(255, 255, 255, 0.6);
-  transition: 0.3s;
-}
-#topbar .contact-info a:hover {
-  color: #fff;
-}
-#topbar .contact-info i {
-  color: #cc1616;
-  line-height: 0;
-  margin-right: 5px;
-}
-#topbar .contact-info .phone-icon {
-  margin-left: 15px;
-}
-
 /*=========================================
 	Header
 ==========================================*/
