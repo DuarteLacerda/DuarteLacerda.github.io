@@ -252,7 +252,7 @@ top: -8px;
 }
 
 .carousel-indicators li {
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.973);
   height: 8px;
   width: 8px;
 }
