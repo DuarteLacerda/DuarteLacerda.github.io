@@ -1,3 +1,9 @@
+<?php
+
+
+
+?>
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -15,8 +21,7 @@
 	<title>My WebSite</title>
 	<!-- Meta Description -->
 	<meta name="description" content="">
-	<meta name="keywords"
-		content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
+	<meta name="keywords" content="one page, single page, onepage, responsive, parallax, creative, business, html5, css3, css3 animation">
 	<meta name="author" content="Duarte Lacerda">
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -119,16 +124,13 @@
 					<div class="carousel-caption">
 						<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">
 							Meet<span> Duarte Lacerda</span></h2>
-						<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span
-								class="color">Learning...</span></h3>
+						<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">Learning...</span></h3>
 						<p data-wow-duration="1000ms" class="wow slideInRight animated">A computer engineer</p>
 						<ul class="social-links text-center">
 							<li><a href="https://twitter.com/duartelacerda1"><i class="fa fa-twitter fa-lg"></i></a>
 							</li>
-							<li><a href="https://www.facebook.com/Duarte.lacerda.PT/"><i
-										class="fa fa-facebook fa-lg"></i></a></li>
-							<li><a href="https://www.instagram.com/duarte_lacerda/"><i
-										class="fa fa-instagram fa-lg"></i></a></li>
+							<li><a href="https://www.facebook.com/Duarte.lacerda.PT/"><i class="fa fa-facebook fa-lg"></i></a></li>
+							<li><a href="https://www.instagram.com/duarte_lacerda/"><i class="fa fa-instagram fa-lg"></i></a></li>
 							<li><a href="https://github.com/duartelacerda"><i class="fa fa-github fa-lg"></i></a></li>
 						</ul>
 					</div>
@@ -140,16 +142,13 @@
 					<div class="carousel-caption">
 						<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated">
 							Meet<span> Duarte Lacerda</span></h2>
-						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span
-								class="color">Learning...</span></h3>
+						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">Learning...</span></h3>
 						<p data-wow-duration="500ms" class="wow slideInRight animated">A Proffessional Designer</p>
 						<ul class="social-links text-center">
 							<li><a href="https://twitter.com/duartelacerda1"><i class="fa fa-twitter fa-lg"></i></a>
 							</li>
-							<li><a href="https://www.facebook.com/Duarte.lacerda.PT/"><i
-										class="fa fa-facebook fa-lg"></i></a></li>
-							<li><a href="https://www.instagram.com/duarte_lacerda/"><i
-										class="fa fa-instagram fa-lg"></i></a></li>
+							<li><a href="https://www.facebook.com/Duarte.lacerda.PT/"><i class="fa fa-facebook fa-lg"></i></a></li>
+							<li><a href="https://www.instagram.com/duarte_lacerda/"><i class="fa fa-instagram fa-lg"></i></a></li>
 							<li><a href="https://github.com/duartelacerda"><i class="fa fa-github fa-lg"></i></a></li>
 						</ul>
 					</div>
@@ -256,8 +255,7 @@
 			<figure class="mix work-item branding">
 				<img src="img/works/item-3.jpg" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Juno Rover Arduino" href="img/works/item-3.jpg"><i
-							class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Juno Rover Arduino" href="img/works/item-3.jpg"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Juno Rover Arduino</h4>
 					<p>Arduino Robot</p>
 				</figcaption>
@@ -265,8 +263,7 @@
 			<figure class="mix work-item branding">
 				<img src="img/works/item-1.jpg" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Crack the code safe box" href="img/works/item-1.jpg"><i
-							class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Crack the code safe box" href="img/works/item-1.jpg"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Crack the code safe box</h4>
 					<p>Puzzle</p>
 				</figcaption>
@@ -274,8 +271,7 @@
 			<figure class="mix work-item web">
 				<img src="img/works/item-2.gif" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Coming Soon" href="img/works/item-2.gif"><i
-							class="fa fa-spinner" aria-hidden="true"></i></a>
+					<a class="fancybox" rel="works" title="Coming Soon" href="img/works/item-2.gif"><i class="fa fa-spinner" aria-hidden="true"></i></a>
 					<h4>Coming Soon</h4>
 					<p>Professional Aptitude Test</p>
 				</figcaption>
@@ -283,8 +279,7 @@
 			<figure class="mix work-item web">
 				<img src="img/works/item-4.gif" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Under Constraction" href="img/works/item-4.gif"><i
-							class="fa fa-spinner" aria-hidden="true"></i></a>
+					<a class="fancybox" rel="works" title="Under Constraction" href="img/works/item-4.gif"><i class="fa fa-spinner" aria-hidden="true"></i></a>
 					<h4>Coming Soon</h4>
 					<p>Under Constraction</p>
 				</figcaption>
@@ -318,8 +313,7 @@
 			<figure class="mix work-item branding">
 				<img src="img/events/item-1.jpg" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Juno Rover Arduino" href="img/events/item-1.jpg"><i
-							class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Juno Rover Arduino" href="img/events/item-1.jpg"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Web Summit</h4>
 					<p>The Web Summit is the largest technology event in the world.</p>
 				</figcaption>
@@ -327,8 +321,7 @@
 			<figure class="mix work-item branding">
 				<img src="img/events/item-2.jpg" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Crack the code safe box" href="img/events/item-2.jpg"><i
-							class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Crack the code safe box" href="img/events/item-2.jpg"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Moche XL Games World</h4>
 					<p>Moche XL Games World is one of the biggest Portuguese video game event.</p>
 				</figcaption>
@@ -336,8 +329,7 @@
 			<figure class="mix work-item web">
 				<img src="img/events/item-3.jpg" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Lisboa Games Week" href="img/events/item-3.jpg"><i
-							class="fa fa-eye fa-lg" aria-hidden="true"></i></a>
+					<a class="fancybox" rel="works" title="Lisboa Games Week" href="img/events/item-3.jpg"><i class="fa fa-eye fa-lg" aria-hidden="true"></i></a>
 					<h4>Lisboa Games Week</h4>
 					<p>Lisboa Games Week is one of the biggest Portuguese video game event.</p>
 				</figcaption>
@@ -345,8 +337,7 @@
 			<figure class="mix work-item web">
 				<img src="img/events/item-4.jpg" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Arduino Day" href="img/events/item-4.jpg"><i
-							class="fa fa-eye fa-lg" aria-hidden="true"></i></a>
+					<a class="fancybox" rel="works" title="Arduino Day" href="img/events/item-4.jpg"><i class="fa fa-eye fa-lg" aria-hidden="true"></i></a>
 					<h4>Arduino Day</h4>
 					<p>Arduino Day is a worldwide birthday celebration of Arduino – organized directly by the community.
 					</p>
@@ -371,8 +362,7 @@
 				</div>
 
 				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-					data-wow-duration="500ms">
+				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
 					<div class="member-thumb">
 						<img src="img/team/member-1.png" alt="Team Member" class="img-responsive">
 					</div>
@@ -381,8 +371,7 @@
 				<!-- end single member -->
 
 				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-					data-wow-duration="500ms" data-wow-delay="300ms">
+				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 					<div class="member-thumb">
 						<img src="img/team/member-8.png" alt="Team Member" class="img-responsive">
 					</div>
@@ -391,8 +380,7 @@
 				<!-- end single member -->
 
 				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-					data-wow-duration="500ms" data-wow-delay="600ms">
+				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
 					<div class="member-thumb">
 						<img src="img/team/member-3.png" alt="Team Member" class="img-responsive">
 					</div>
@@ -401,8 +389,7 @@
 				<!-- end single member -->
 
 				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-					data-wow-duration="500ms" data-wow-delay="900ms">
+				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 					<div class="member-thumb">
 						<img src="img/team/member-2.png" alt="Team Member" class="img-responsive">
 					</div>
@@ -411,8 +398,7 @@
 				<!-- end single member -->
 
 				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-					data-wow-duration="500ms" data-wow-delay="900ms">
+				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 					<div class="member-thumb">
 						<img src="img/team/member-5.png" alt="Team Member" class="img-responsive">
 					</div>
@@ -420,8 +406,7 @@
 				</figure>
 				<!-- end single member -->
 				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-					data-wow-duration="500ms" data-wow-delay="900ms">
+				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 					<div class="member-thumb">
 						<img src="img/team/member-6.png" alt="Team Member" class="img-responsive">
 					</div>
@@ -430,8 +415,7 @@
 				<!-- end single member -->
 
 				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-					data-wow-duration="500ms" data-wow-delay="900ms">
+				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 					<div class="member-thumb">
 						<img src="img/team/member-7.png" alt="Team Member" class="img-responsive">
 					</div>
@@ -440,8 +424,7 @@
 				<!-- end single member -->
 
 				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-					data-wow-duration="500ms" data-wow-delay="900ms">
+				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 					<div class="member-thumb">
 						<img src="img/team/member-4.png" alt="Team Member" class="img-responsive">
 					</div>
@@ -472,8 +455,7 @@
 					</div>
 
 					<!-- first count item -->
-					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-						data-wow-duration="500ms">
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
 						<div class="counters-item">
 							<i class="fa fa-clock-o fa-3x"></i>
 							<strong data-to="11790">0</strong>
@@ -481,8 +463,7 @@
 							<p>Hours of Work</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms"
-						data-wow-delay="300ms">
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 						<div class="counters-item">
 							<i class="fa fa-users fa-3x"></i>
 							<strong data-to="11">0</strong>
@@ -490,8 +471,7 @@
 							<p>Satisfied Clients</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms"
-						data-wow-delay="600ms">
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
 						<div class="counters-item">
 							<i class="fa fa-check-square-o fa-3x"></i>
 							<strong data-to="2">0</strong>
@@ -499,8 +479,7 @@
 							<p> Projects Delivered </p>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms"
-						data-wow-delay="900ms">
+					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 						<div class="counters-item">
 							<i class="fa fa-trophy fa-3x"></i>
 							<strong data-to="1">0</strong>
@@ -549,8 +528,7 @@
 				<!-- end contact address -->
 
 				<!-- contact form -->
-				<div class="col-lg-8 col-md-8 col-sm-7 col-xs-12 wow fadeInDown animated" data-wow-duration="500ms"
-					data-wow-delay="300ms">
+				<div class="col-lg-8 col-md-8 col-sm-7 col-xs-12 wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="300ms">
 					<div class="contact-form">
 						<h3></h3>
 						<form action="#" id="contact-form">
@@ -559,13 +537,11 @@
 									<input type="text" name="name" id="name" placeholder="Name" class="form-control">
 								</div>
 								<div class="input-field">
-									<input type="email" name="email" id="email" placeholder="Email"
-										class="form-control">
+									<input type="email" name="email" id="email" placeholder="Email" class="form-control">
 								</div>
 							</div>
 							<div class="input-group">
-								<textarea name="message" id="message" placeholder="Message"
-									class="form-control"></textarea>
+								<textarea name="message" id="message" placeholder="Message" class="form-control"></textarea>
 							</div>
 							<div class="input-group">
 								<input type="submit" id="form-submit" class="pull-right" value="Send message">
@@ -576,15 +552,12 @@
 				<!-- end contact form -->
 
 				<!-- footer social links -->
-				<div class="col-lg-1 col-md-1 col-sm-1 col-xs-12 wow fadeInRight animated" data-wow-duration="500ms"
-					data-wow-delay="600ms">
+				<div class="col-lg-1 col-md-1 col-sm-1 col-xs-12 wow fadeInRight animated" data-wow-duration="500ms" data-wow-delay="600ms">
 					<ul class="footer-social">
-						<li><a href="https://www.facebook.com/Duarte.lacerda.PT"><i
-									class="fa fa-facebook fa-2x"></i></a></li>
+						<li><a href="https://www.facebook.com/Duarte.lacerda.PT"><i class="fa fa-facebook fa-2x"></i></a></li>
 						<li><a href="https://twitter.com/duartelacerda1"><i class="fa fa-twitter fa-2x"></i></a>
 						</li>
-						<li><a href="https://www.instagram.com/duarte_lacerda/"><i
-									class="fa fa-instagram fa-2x"></i></a></li>
+						<li><a href="https://www.instagram.com/duarte_lacerda/"><i class="fa fa-instagram fa-2x"></i></a></li>
 						<li><a href="https://github.com/duartelacerda"><i class="fa fa-github fa-lg"></i></a></li>
 					</ul>
 				</div>
@@ -611,8 +584,7 @@
 							É dor que desatina sem doer.<br>Luis Camões</p>
 					</div>
 				</div>
-				<div class="col-md-6 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms"
-					data-wow-delay="300ms">
+				<div class="col-md-6 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 					<div class="footer-single">
 						<h6>Subscribe </h6>
 						<form action="#" class="subscribe">
@@ -622,8 +594,7 @@
 						<p>Primeiro estranha-se, depois entranha-se.<br>Fernando Pessoa</p>
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms"
-					data-wow-delay="600ms">
+				<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
 					<div class="footer-single">
 						<h6>Follow me</h6>
 						<ul>
@@ -671,28 +642,26 @@
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js"></script>
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"></script>
 	<!-- Google Map -->
-	<script type="text/javascript"
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
 	<!-- jquery easing -->
 	<script src="js/jquery.easing.min.js"></script>
 	<!-- jquery easing -->
 	<script src="js/wow.min.js"></script>
 	<script>
 		var wow = new WOW({
-			boxClass: 'wow',      // animated element css class (default is wow)
+			boxClass: 'wow', // animated element css class (default is wow)
 			animateClass: 'animated', // animation css class (default is animated)
-			offset: 120,          // distance to the element when triggering the animation (default is 0)
-			mobile: false,       // trigger animations on mobile devices (default is true)
-			live: true        // act on asynchronously loaded content (default is true)
-		}
-		);
+			offset: 120, // distance to the element when triggering the animation (default is 0)
+			mobile: false, // trigger animations on mobile devices (default is true)
+			live: true // act on asynchronously loaded content (default is true)
+		});
 		wow.init();
 	</script>
 	<!-- Custom Functions -->
 	<script src="js/custom.js"></script>
 
 	<script type="text/javascript">
-		$(function () {
+		$(function() {
 			/* ========================================================================= */
 			/*	Contact Form
 			/* ========================================================================= */
@@ -724,21 +693,21 @@
 						minlength: "thats all? really?"
 					}
 				},
-				submitHandler: function (form) {
+				submitHandler: function(form) {
 					$(form).ajaxSubmit({
 						type: "POST",
 						data: $(form).serialize(),
 						url: "process.php",
-						success: function () {
+						success: function() {
 							$('#contact-form :input').attr('disabled', 'disabled');
-							$('#contact-form').fadeTo("slow", 0.15, function () {
+							$('#contact-form').fadeTo("slow", 0.15, function() {
 								$(this).find(':input').attr('disabled', 'disabled');
 								$(this).find('label').css('cursor', 'default');
 								$('#success').fadeIn();
 							});
 						},
-						error: function () {
-							$('#contact-form').fadeTo("slow", 0.15, function () {
+						error: function() {
+							$('#contact-form').fadeTo("slow", 0.15, function() {
 								$('#error').fadeIn();
 							});
 						}
