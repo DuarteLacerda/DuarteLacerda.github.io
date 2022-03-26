@@ -73,7 +73,7 @@ body > section,
 }
 
 .sec-title h2 {
-  color: hsl(0, 0%, 59%);
+  color: hsl(204, 100%, 69%);
   font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
@@ -87,15 +87,16 @@ body > section,
 	font-weight: 600;
 	line-height: 24px;
 	font-size: 18px;
-	color: #5b646e;
+	color: #5fa6b3;
 }
 
 .devider {
   margin-top: 30px;
+  color: #b4ebf8
 }
 
 .devider i {
-  color: #cccccc;
+  color: #b4ebf8;
 }
 
 .devider:before,
@@ -203,7 +204,7 @@ body > section,
 }
 
 .carousel-caption p {
-  color: rgb(209, 209, 209);
+  color: #d1d1d1;
   font-size: 18px;
   font-weight: 300;
 }
@@ -298,9 +299,9 @@ top: -8px;
 }
 
 .service-icon {
-  border: 1px solid #000000;
+  border: 1px solid #467286;
   border-radius: 50%;
-  color: #000000;
+  color: #467286;
   float: left;
   padding: 10px 13px;
 }
@@ -312,7 +313,7 @@ top: -8px;
 }
 
 .service-desc h3 {
-  color: #062033;
+  color: #467286;
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 25px;
@@ -545,102 +546,8 @@ top: -8px;
   text-transform: uppercase;
 }
 
-
-/*=========================================
-	Contact Us
-==========================================*/
-
-.contact {
-	padding-bottom: 0;
-}
-
-.contact-address h3 {
-  color: #062033;
-  font-size: 22px;
-  line-height: 32px;
-  margin-bottom: 25px;
-}
-
-.contact-address p {
-  line-height: 24px;
-}
-
-.contact-form h3 {
-  color: #062033;
-  font-size: 24px;
-  font-weight: 700;
-  line-height: 32px;
-  margin-bottom: 25px;
-}
-
-.contact-form .input-group {
-  width: 100%;
-}
-
-.contact-form .form-control {
-  border-color: -moz-use-text-color -moz-use-text-color #cccccc;
-  border-radius: 0;
-  border-style: none none solid;
-  border-width: 0 0 1px;
-  box-shadow: none;
-  margin-bottom: 10px;
-}
-
-.contact-form .input-field {
-  width: 48%;
-  float: left;
-  margin-right: 4%;
-}
-
-.contact-form .input-field:last-child {
-  margin-right: 0;
-}
-
-.contact-form .form-control.error {
-border-bottom-color: #c0392b;
-}
-
-label.error {
-  color: #c0392b;
-  font-weight: normal;
-  text-transform: capitalize;
-}
-
-.contact-form #form-submit {
-  background: url("../img/envelop.png") no-repeat scroll 0 15px transparent;
-  border: 0 none;
-  color: #000;
-  font-size: 16px;
-  line-height: 24px;
-  padding: 10px;
-  text-align: right;
-  width: 150px;
-}
-
-.footer-social {
-  margin-top: 17px;
-}
-
-.footer-social li a {
-  color: #cdd2d6;
-  display: block;
-  margin-bottom: 10px;
-}
-
-#map_canvas {
-  height: 215px;
-  width: 100%;
-}
-
-
-
-/*=========================================
-	Contact Us
-==========================================*/
-
-
 .footer {
-  background-color: #3fb87b;
+  background-color: #0099ff;
   border-top: 5px solid #062033;
   color: #fff;
 }
@@ -692,7 +599,7 @@ label.error {
 }
 
 .footer-single p i {
-  margin: 0 10px;
+  margin: 0 5px;
 }
 
 .credit a {
