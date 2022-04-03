@@ -838,6 +838,77 @@ a:focus {
     top: 50%;
 }
 
+/**********************************/
+/********* Hobbies and interests CSS **********/
+/**********************************/
+.hobbies {
+    position: relative;
+    padding: 60px 30px;
+    background: #ffffff;
+    border-bottom: 30px solid #22222200;
+}
+
+.hobbies .edu-col {
+    position: relative;
+    width: 100%;
+    padding: 20px 0 20px 20px;
+    border-left: 1px solid #FF6F61;
+    border-bottom: 1px solid #FF6F61;
+}
+
+.hobbies .col-md-6:first-child .edu-col {
+    padding-top: 0;
+}
+
+.hobbies .col-md-6:last-child .edu-col {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+@media (min-width: 768px) {
+    .hobbies .col-md-6:nth-child(-n+2) .edu-col {
+        padding-top: 0;
+    }
+
+    .hobbies .col-md-6:last-child .edu-col,
+    .hobbies .col-md-6:nth-last-child(2) .edu-col {
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+}
+
+.hobbies .edu-col span {
+    position: relative;
+    display: block;
+    font-size: 13px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+.hobbies .edu-col span::before {
+    position: absolute;
+    content: "";
+    width: 11px;
+    height: 11px;
+    background: #FF6F61;
+    top: 5px;
+    left: -26px;
+    border-radius: 5px;
+}
+
+.hobbies .edu-col span i {
+    color: #FF6F61;
+}
+
+.hobbies .edu-col h3 {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.hobbies .edu-col p {
+    margin: 0;
+}
 
 /**********************************/
 /*********** Review CSS ***********/
