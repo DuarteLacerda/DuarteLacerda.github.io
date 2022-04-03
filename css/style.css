@@ -145,6 +145,10 @@ a:focus {
         float: right;
     }
 
+    .wrapper img{
+        width: 95%;
+    }
+
     .wrapper .sidebar:hover  .sidebar-header {
         position: relative;
         display: block;
