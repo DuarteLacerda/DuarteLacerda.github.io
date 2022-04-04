@@ -146,7 +146,7 @@ a:focus {
         float: right;
     }
 
-    .wrapper img {
+    .wrapper .favicon {
         width: 25%;
         margin-left: 112px;
     }
