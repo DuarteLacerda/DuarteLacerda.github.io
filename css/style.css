@@ -146,11 +146,6 @@ a:focus {
         float: right;
     }
 
-    .wrapper .favicon {
-        width: 25%;
-        margin-left: 112px;
-    }
-
     .wrapper .sidebar:hover .sidebar-header {
         position: relative;
         display: block;
