@@ -567,6 +567,9 @@ a:focus {
     margin: 0;
 }
 
+.education img {
+    max-width: 250px;
+}
 
 /**********************************/
 /********* Experience CSS *********/
