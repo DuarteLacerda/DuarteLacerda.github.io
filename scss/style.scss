@@ -404,14 +404,14 @@ h5,
   &.home-slider {
     position: relative;
     height: 750px;
-    z-index: 0;
+    z-index: -1;
     .slider-item {
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center;
       height: 750px;
       position: relative;
-      z-index: -1;
+      z-index: -2;
       @include media-breakpoint-down(lg) {
         background-position: center center !important;
       }

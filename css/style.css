@@ -67,6 +67,21 @@ body {
   background-color: #fff;
 }
 
+#home-section {
+  height: 100vh;
+  position: relative;
+  z-index: -2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 728px) {
+  #home-section {
+    height: 80vh;
+  }
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
