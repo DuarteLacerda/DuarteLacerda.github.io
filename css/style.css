@@ -34,6 +34,7 @@
 *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  user-select: none;
 }
 
 html {
@@ -12713,6 +12714,8 @@ h5,
   -webkit-box-shadow: 0px 20px 69px -27px rgba(0, 0, 0, 0.17);
   -moz-box-shadow: 0px 20px 69px -27px rgba(0, 0, 0, 0.17);
   box-shadow: 0px 20px 69px -27px rgba(0, 0, 0, 0.17);
+  cursor: default;
+
 }
 
 .services-1 .icon {
@@ -12772,6 +12775,7 @@ h5,
 
 .services-1:hover .icon i {
   color: #fff;
+  transform: scale(1.6) rotate(45deg);
 }
 
 .services-1:hover h3 {
