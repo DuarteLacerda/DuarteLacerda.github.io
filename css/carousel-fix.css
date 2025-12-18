@@ -1,0 +1,13 @@
+/* Remove dots do carousel em todas as resoluções */
+.owl-carousel.home-slider .owl-dots {
+    display: none !important;
+}
+
+/* Garante scroll suave no mobile */
+@media (max-width: 767.98px) {
+
+    .owl-carousel.home-slider,
+    .owl-carousel.home-slider * {
+        touch-action: pan-y !important;
+    }
+}
