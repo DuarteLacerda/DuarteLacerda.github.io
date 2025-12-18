@@ -3,6 +3,38 @@ AOS.init({
   easing: "slide",
 });
 
+// Theme Toggle Functionality
+(function () {
+  const themeSwitch = document.getElementById("theme-switch");
+  const body = document.body;
+
+  // Check for saved theme preference or default to dark mode
+  const currentTheme = localStorage.getItem("theme") || "dark";
+
+  if (currentTheme === "light") {
+    body.classList.remove("dark-mode");
+    body.classList.add("light-mode");
+    themeSwitch.checked = true;
+  } else {
+    body.classList.add("dark-mode");
+    body.classList.remove("light-mode");
+    themeSwitch.checked = false;
+  }
+
+  // Theme switch event listener
+  themeSwitch.addEventListener("change", function () {
+    if (this.checked) {
+      body.classList.remove("dark-mode");
+      body.classList.add("light-mode");
+      localStorage.setItem("theme", "light");
+    } else {
+      body.classList.add("dark-mode");
+      body.classList.remove("light-mode");
+      localStorage.setItem("theme", "dark");
+    }
+  });
+})();
+
 (function ($) {
   "use strict";
 
@@ -181,7 +213,6 @@ AOS.init({
           $(".number").each(function () {
             var $this = $(this),
               num = $this.data("number");
-            console.log(num);
             $this.animateNumber(
               {
                 number: num,
