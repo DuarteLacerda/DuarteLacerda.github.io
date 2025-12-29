@@ -1,7 +1,9 @@
 # Personal Website – Duarte Lacerda
 
-This is my personal website, hosted via GitHub Pages at [duartelacerda.github.io](https://duartelacerda.github.io).  
-It serves as an online portfolio to showcase my work, projects, and provide a point of contact.
+This is my personal website, hosted via GitHub Pages at [duartelacerda.github.io](https://duartelacerda.github.io). It serves as an online portfolio to showcase my work, projects, and provide a point of contact.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78b05a4f-c536-4660-8ec8-88e406c0a40a/deploy-status)](http://duartelacerda.eu)
+
 
 ## 🛠️ Built With
 
