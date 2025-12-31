@@ -14020,6 +14020,27 @@ textarea.form-control {
   }
 }
 
+/* Loader stroke colors for themes */
+#ftco-loader .path-bg {
+  stroke: #ffbd39;
+  /* default for dark mode */
+}
+
+#ftco-loader .path {
+  stroke: #F96D00;
+  /* default for dark mode */
+}
+
+body.light-mode #ftco-loader .path-bg {
+  stroke: #cbd5e0;
+  /* light gray for light mode */
+}
+
+body.light-mode #ftco-loader .path {
+  stroke: #4299e1;
+  /* blue for light mode */
+}
+
 /* ============================================ */
 /* Theme Toggle Switch Styles */
 /* ============================================ */
