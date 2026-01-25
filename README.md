@@ -35,4 +35,4 @@ This repository was created for educational and recreational purposes only. It i
 Duarte Lacerda  
 
 ## 📄 Licence  
-This code is distributed without a license. For personal or educational use only.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
