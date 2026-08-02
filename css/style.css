@@ -14109,11 +14109,11 @@ body.light-mode .switch-label:hover {
 }
 
 .switch-label .sun {
-  margin-left: 2px;
+  margin-right: -2px;
 }
 
 .switch-label .moon {
-  margin-right: 2px;
+  margin-left: 0px;
 }
 
 .theme-toggle input[type="checkbox"]:checked+.switch-label .sun {
