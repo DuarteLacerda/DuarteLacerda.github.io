@@ -28,7 +28,7 @@ git clone https://github.com/duartelacerda/duartelacerda.github.io.git
 cd duartelacerda.github.io
 ```
 
-## ⚠️ Disclaier
+## ⚠️ Disclaimer
 This repository was created for educational and recreational purposes only. It is not intended to be a final or commercial product. Some projects may be unfinished or simplified.  
 
 ## 👤 Author  
